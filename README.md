@@ -42,46 +42,46 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Clean Architecture iOS</h3>
+      <h3 align="center">OOP Java</h3>
       <p align="center">
-        <a href="https://github.com/minhbi245/clean_architecture_practice_sample">
+        <a href="https://github.com/minhbi245/oop_java">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">iOS app built with Clean Architecture & MVVM pattern. Demonstrates separation of concerns, dependency injection, and testable code structure.</p>
-      <p align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/MVVM-blue?style=flat"/> <img src="https://img.shields.io/badge/Clean_Architecture-green?style=flat"/></p>
+      <p align="center">Programming Fundamental OOP - Object-Oriented Programming concepts and design principles implemented in Java.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/OOP-blue?style=flat"/> <img src="https://img.shields.io/badge/Design_Principles-green?style=flat"/></p>
     </td>
     <td width="50%">
-      <h3 align="center">15 iOS Apps</h3>
+      <h3 align="center">iOS Networking Module</h3>
       <p align="center">
-        <a href="https://github.com/minhbi245/15apps_iOS">
+        <a href="https://github.com/minhbi245/networking_sample">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Collection of 15 iOS applications covering various frameworks and design patterns - from UIKit fundamentals to advanced Swift concepts.</p>
-      <p align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-blue?style=flat"/> <img src="https://img.shields.io/badge/15_Apps-orange?style=flat"/></p>
+      <p align="center">iOS networking module - URLSession, API handling, and data parsing for building robust network layers.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/URLSession-blue?style=flat"/> <img src="https://img.shields.io/badge/Networking-orange?style=flat"/></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Tinder Clone</h3>
+      <h3 align="center">Algorithm Swift</h3>
       <p align="center">
-        <a href="https://github.com/minhbi245/TinderClone">
+        <a href="https://github.com/minhbi245/algorithm_swift">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Tinder-style iOS app clone with swipe gestures, matching system, and modern UI built in Swift.</p>
-      <p align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-blue?style=flat"/> <img src="https://img.shields.io/badge/Gestures-purple?style=flat"/></p>
+      <p align="center">Data structures & algorithm solutions implemented in Swift - sorting, searching, trees, graphs, and dynamic programming.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Algorithms-green?style=flat"/> <img src="https://img.shields.io/badge/DSA-yellow?style=flat"/></p>
     </td>
     <td width="50%">
-      <h3 align="center">RxSwift Practice</h3>
+      <h3 align="center">Pok-API</h3>
       <p align="center">
-        <a href="https://github.com/minhbi245/rxswift_khanhnvm">
+        <a href="https://github.com/minhbi245/Pok-API">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Hands-on RxSwift exercises covering Observables, Subjects, Operators, and reactive UI bindings for iOS development.</p>
-      <p align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white"/> <img src="https://img.shields.io/badge/Reactive-red?style=flat"/></p>
+      <p align="center">Pokemon API iOS app - fetching and displaying Pokemon data with clean networking and UI presentation.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-purple?style=flat"/> <img src="https://img.shields.io/badge/UIKit-blue?style=flat"/></p>
     </td>
   </tr>
   <tr>
@@ -96,14 +96,6 @@
       <p align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Combine-blue?style=flat"/> <img src="https://img.shields.io/badge/Reactive-red?style=flat"/></p>
     </td>
     <td width="50%">
-      <h3 align="center">Algorithm Swift</h3>
-      <p align="center">
-        <a href="https://github.com/minhbi245/algorithm_swift">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">Data structures & algorithm solutions implemented in Swift - sorting, searching, trees, graphs, and dynamic programming.</p>
-      <p align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Algorithms-green?style=flat"/> <img src="https://img.shields.io/badge/DSA-yellow?style=flat"/></p>
     </td>
   </tr>
 </table>
